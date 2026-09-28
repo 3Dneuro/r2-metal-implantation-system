@@ -2,7 +2,7 @@
 
 Generic connector basket for the R2metal implantation system. It fits many high-density connectors and is the basket supplied with the system.
 
-![Standard basket](../images/standard_basket.jpg)
+![Standard basket](../../images/standard_basket.jpg)
 
 ## Files
 
