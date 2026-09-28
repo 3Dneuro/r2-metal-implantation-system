@@ -18,11 +18,11 @@ A probe's flex cable ends in a connector or an electrode interface board (EIB). 
 They hold that connector/EIB, and allow to tension it in the R2 metal case and on the stereotax, to so the connector is held stably but the flex cable never pulls on the probe. There are two baskets (images from [R2 system documentation](https://recover-reuse.it)):
 
 ### Basket in the R2 metal case
-![Parking the connector in the case basket and setting the flex tension.](images/C3_park_connector.jpg)
+![Parking the connector in the case basket and setting the flex tension.](../images/C3_park_connector.jpg)
 
 ### Basket on the R2 metal implantation system stereotactic adapter
 
-![The adapter basket holding the connector, ready for the stereotax (close-up on the left).](images/T5_ready_for_stereotax.jpg)
+![The adapter basket holding the connector, ready for the stereotax (close-up on the left).](../images/T5_ready_for_stereotax.jpg)
 
 Sliding a basket along its rod sets the flex-cable tension: taut enough to hold the connector, slack before the probe or connector is moved.
 
@@ -31,7 +31,7 @@ Sliding a basket along its rod sets the flex-cable tension: taut enough to hold 
 
 The standard basket is a **generic basket** that fits many high-density connectors. It is the basket shown in the renderings above and the one supplied with the system. The connector/EIB sits between its two arms; the basket slides onto its stainless-steel rod through the bore at the top and is fixed with an M3 set screw.
 
-![The standard basket.](images/standard_basket.jpg)
+![The standard basket.](../images/standard_basket.jpg)
 
 | Dimension | Value |
 | --- | --- |
